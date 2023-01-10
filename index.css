@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Start";
+    src: url("./src/fonts/PressStart2P-Regular.ttf") ;
+    }
+@font-face {
+    font-family: "Orbitron";
+    src: url("./src/fonts/Orbitron/Orbitron-VariableFont_wght.ttf") ;
+    }
+    
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #b4b4b4;
+}
+
+body{
+    display: flex;
+    background-color: #2b2b2b;
+    justify-content: center;
+    align-content: center;
+    
+}

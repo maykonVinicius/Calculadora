@@ -1,0 +1,22 @@
+.display{
+    grid-column: 1 / -1;
+    padding:5px 50px 5px 5px;
+    background-color: #97a682;
+    border: solid #a38d5d;
+    border-width: 5px 15px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+.content{
+    text-align:end;
+    word-wrap: break-word;
+    font-size: 2.4rem;
+    font-family: 'Orbitron';
+    font-weight: 600;
+    color: #152104d7;
+    max-width: 100%;
+}
